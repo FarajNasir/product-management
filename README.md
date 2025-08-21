@@ -104,13 +104,6 @@ npm run dev
 
 ---
 
-## 🌐 Access the Application
-
-* Frontend: [http://localhost:3000](http://localhost:3000)
-* Backend API: [http://localhost:5000](http://localhost:5173)
-
----
-
 ## 📖 Usage
 
 ### Adding Products
