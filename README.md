@@ -37,7 +37,7 @@ A comprehensive full-stack application for managing **product purchases, invento
 * Multer (file uploads)
 * JSBarcode & QRCode
 * CORS
-
+ 
 ---
 
 ## 📋 Prerequisites
